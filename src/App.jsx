@@ -49,7 +49,7 @@ function App() {
         ))}
       </div>
       <div className="ban-list">
-
+          <h1>Ban List</h1>
       </div>
     </div>
   );
